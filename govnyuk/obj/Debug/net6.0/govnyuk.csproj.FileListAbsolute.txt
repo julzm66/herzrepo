@@ -1,0 +1,15 @@
+C:\Users\Юлия\herzrepo\govnyuk\bin\Debug\net6.0\govnyuk.exe
+C:\Users\Юлия\herzrepo\govnyuk\bin\Debug\net6.0\govnyuk.deps.json
+C:\Users\Юлия\herzrepo\govnyuk\bin\Debug\net6.0\govnyuk.runtimeconfig.json
+C:\Users\Юлия\herzrepo\govnyuk\bin\Debug\net6.0\govnyuk.dll
+C:\Users\Юлия\herzrepo\govnyuk\bin\Debug\net6.0\govnyuk.pdb
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.csproj.AssemblyReference.cache
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.AssemblyInfoInputs.cache
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.AssemblyInfo.cs
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.dll
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\refint\govnyuk.dll
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.pdb
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\govnyuk.genruntimeconfig.cache
+C:\Users\Юлия\herzrepo\govnyuk\obj\Debug\net6.0\ref\govnyuk.dll
